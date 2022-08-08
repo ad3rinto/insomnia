@@ -1,0 +1,33 @@
+_id: req_6eafbe68d0c24c1da750c490dc5c7c04
+type: Request
+parentId: fld_7362548d46a846f49dde60ebb5838076
+modified: 1659983285563
+created: 1654952640248
+url: " https://api.ambeedata.com/forecast/pollen/by-place?"
+name: pollen count by place
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_ba9d7b936ac04cfaaae70e48c5243735
+    name: place
+    value: cheadle,uk
+    description: ""
+headers:
+  - id: pair_86b6b27583b54ca3b7340504bb52502a
+    name: x-api-key
+    value: 988e5102ef7893afc5135d75e2df3740efe022aabb41a9e7d1cefac4136b716e
+    description: ""
+  - id: pair_2afa0b4989124a46916d5820591dddc1
+    name: Content-Type
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1654952640249
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
